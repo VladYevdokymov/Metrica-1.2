@@ -264,7 +264,7 @@ h2 {
   margin: 0 auto;
   margin-bottom: 186px;
   width: 1400px;
-  background-image: url(/resources/examples.png);
+  background-image: url("../resources/examples.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
