@@ -303,7 +303,7 @@ h2 {
   height: 24px;
   bottom: 35px;
   right: 453px;
-  background-image: url(../resources/contacts__phone.png);
+  background-image: url("../resources/contacts__phone.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: 50%;
